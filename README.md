@@ -1,7 +1,7 @@
 # Nodejs-Auth
 
 ## Node.js Authentication App
- I worked previously with Node.js as Icreated a project that has basic RESTful API using node and express and mongodb using Atlas,
+ I worked previously with Node.js as Icreated a project that has basic RESTful API using node and express and mongodb by using mogoose and Atlas,
 but I haven’t gotten into authentication and containerization an app.
 
 I used JWT for token authentication and docker for containerization
